@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.futuristicrnd14.demo_flutter_counter">
+    package="com.example.demo_flutter_counter">
    <application
         android:label="demo_flutter_counter"
         android:name="${applicationName}"
